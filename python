@@ -1,0 +1,10 @@
+# Input list of numbers
+list1 = [12, -7, 5, 64, -14]
+
+# Iterate through the list and print positive numbers
+print("Positive numbers in the list:")
+for num in list1:
+    if num > 0:
+        print(num)
+Output: 
+Positive numbers in the list: 12, 5, 64
